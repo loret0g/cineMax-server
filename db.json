@@ -1,45 +1,17 @@
 {
-  "companies": [
+  "movies": [
     {
-      "id": "1234",
-      "name": "Sony",
-      "location": "Japan",
-      "foundedIn": 1946
-    },
-    {
-      "id": "2345",
-      "name": "Nintendo",
-      "location": "Japan",
-      "foundedIn": 1889
-    },
-    {
-      "id": "3456",
-      "name": "Microsoft",
-      "location": "US",
-      "foundedIn": 1975
-    }
-  ],
-  "games": [
-    {
-      "title": "The Legend of Zelda, Breath of the Wild",
-      "category": "adventure",
-      "rating": 10,
-      "companyId": "2345",
-      "id": "abcd"
-    },
-    {
-      "id": "fgrt",
-      "title": "Mario Sunshine",
-      "category": "adventure",
-      "rating": 9,
-      "companyId": "2345"
-    },
-    {
-      "title": "God of war",
-      "category": "action",
-      "rating": 10,
-      "companyId": "1234",
-      "id": "ybFmJZ5"
+      "title": "Jawbreaker",
+      "backdrop_path": "/bZ7ZMu8lGuEKmwH5lXRhlJAjYWv.jpg",
+      "overview": "When an exclusive clique of teenage socialites accidentally murder their best friend on the morning of her birthday, the three girls responsible conspire to hide the truth.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "watched": false,
+      "liked": false,
+      "rating": 0,
+      "id": 1
     }
   ]
 }
