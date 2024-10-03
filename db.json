@@ -1,17 +1,5 @@
 {
   "movies": [
-    {
-      "title": "Jawbreaker",
-      "backdrop_path": "/bZ7ZMu8lGuEKmwH5lXRhlJAjYWv.jpg",
-      "overview": "When an exclusive clique of teenage socialites accidentally murder their best friend on the morning of her birthday, the three girls responsible conspire to hide the truth.",
-      "genres": [
-        "Comedy",
-        "Crime"
-      ],
-      "watched": false,
-      "liked": false,
-      "rating": 0,
-      "id": 1
-    }
+    
   ]
 }
