@@ -12,10 +12,8 @@ valorarlas, y agregar comentarios. El servidor está construido utilizando JSON 
 
 ## Estructura del Proyecto 🗂️
 
-### movies
-
 La API maneja objetos de películas con la siguiente estructura:
-
+### movies
 ```json
 {
   "title": "Título de la película",
